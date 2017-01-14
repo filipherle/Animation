@@ -1,4 +1,5 @@
 # Animation
+Moving characters python script
 
 To spice things up a bit try:
 - To change what the word says
@@ -6,4 +7,4 @@ To spice things up a bit try:
 - Make each letter a different colour
 - Try to make a stop motion or movie type-thing
 
-### Tested on Windows 10, 7 and BackBox.
+### Tested on Windows 10, 7.
